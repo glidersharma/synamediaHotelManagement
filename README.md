@@ -36,6 +36,10 @@ This project provides APIs for managing room bookings in a hotel. The features i
   - Email address
   - Existing booking details
 
+
+
+1. **Clone the repository**:
+  git clone https://github.com/glidersharma/synamediaHotelManagement.git
 ---
 npm install
 
