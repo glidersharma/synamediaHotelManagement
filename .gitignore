@@ -1,0 +1,46 @@
+# Dependency directories
+node_modules/
+yarn-error.log
+pnp-lock.yaml
+
+# Yarn 1.x
+.yarn-integrity
+.yarn-metadata.json
+.yarn-tarball.tgz
+
+# Yarn 2.x
+.yarn/
+yarn.lock
+yarnrc.yml
+
+# npm
+npm-debug.log
+
+# TypeScript configuration
+
+
+# Compiled JavaScript
+*.js
+*.js.map
+
+# Build output
+dist/
+
+# Environment variables
+.env
+
+# Editor configuration
+.vscode/
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+
+# Mac OS
+.DS_Store
+
+# Windows
+Thumbs.db
+
